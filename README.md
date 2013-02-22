@@ -1,7 +1,7 @@
 ambassador
 ==========
 
-getambassador.com API wrapper
+PHP wrapper for the [Ambassador](https://getambassador.com/) API.
 
 Example usage:
 
